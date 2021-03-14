@@ -1,0 +1,1 @@
+# Projeto-Rede-Neurais-LSTM--Series-Temporais
