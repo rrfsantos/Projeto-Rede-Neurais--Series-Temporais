@@ -7,7 +7,7 @@ A base apresentada é de pessoas mortas por doenças pulmonares na Inglaterra, a
 
 2- Voltando a configuração inicial mude o numero de neurônios da camada LSTM, primeiro para 16 e depois para 48 e veja o resultado do RMSE.
 
-3-coloque uma segunda camada LSTM e veja o resultado do RMSE
+3- Coloque uma segunda camada LSTM e veja o resultado do RMSE
 
 4- Mude por dois valores que você ache convenientes as épocas de treinamento e veja o resultado do RMSE.
 
