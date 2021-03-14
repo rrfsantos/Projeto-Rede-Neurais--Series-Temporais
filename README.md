@@ -3,7 +3,7 @@
 
 A base apresentada é de pessoas mortas por doenças pulmonares na Inglaterra, a ideia é prever em um período de tempo com redes LSTM. Por favor, rodem o código com a base de dados, vejam os resultados e façam as seguintes mudanças.
 
-1- Mudem o otimizador de adam para sgd dentro da configuração da rede e veja os resultados de RMSE.
+1- Mude o otimizador de adam para sgd dentro da configuração da rede e veja os resultados de RMSE.
 
 2- Voltando a configuração inicial mude o numero de neurônios da camada LSTM, primeiro para 16 e depois para 48 e veja o resultado do RMSE.
 
