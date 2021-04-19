@@ -1,4 +1,4 @@
-# Projeto-Rede-Neurais-LSTM--Series-Temporais
+# Projeto-Rede-Neurais-LSTM e GRU--Series-Temporais
 
 
 A base apresentada é de pessoas mortas por doenças pulmonares na Inglaterra, a ideia é prever em um período de tempo com redes LSTM. Por favor, rodem o código com a base de dados, vejam os resultados e façam as seguintes mudanças.
